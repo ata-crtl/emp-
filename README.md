@@ -15,11 +15,10 @@
 - [How it works (in 30 secs)](#how-it-works-in-30-secs)
 - [Images and diagrams](#images-and-diagrams)
 - [Assembly instructions](#assembly-instructions)
-  - [1. Order the components](#1-order-the-components)
-  - [2. Solder the PCB](#2-solder-the-pcb)
-  - [3. Wind the coil](#3-wind-the-coil)
-  - [4. Prepare the enclosure](#4-prepare-the-enclosure)
-- [5. Final assembly](#5-final-assembly)
+  - [1. Solder the PCB](#1-solder-the-pcb)
+  - [2. Wind the coil](#2-wind-the-coil)
+  - [3. Prepare the enclosure](#3-prepare-the-enclosure)
+- [4. Final assembly](#4-final-assembly)
 - [Wiring diagram](#wiring-diagram)
 - [Safety precautions](#safety-precautions)
 
@@ -54,3 +53,8 @@ I always saw lots of tutorials in youtube and always thought how cool they looke
 ---
 
 ## Images and diagrams
+pcb
+
+3d model
+
+wring diagram 
