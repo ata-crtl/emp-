@@ -95,6 +95,8 @@ Get your pcb made, the gerer files are in the github.All compoenets are marked o
   |other side of button|j3 pin2|
   |coil lead one side|j1|
   |coil lead other side|j2|
+ 
+  
   3.place the pcb into the case and close.
 
 ----- 
