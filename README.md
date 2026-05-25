@@ -49,4 +49,8 @@ I always saw lots of tutorials in youtube and always thought how cool they looke
   3. That pulse drives a tc4420 gate driver witch turns on the mosfet
   4. Current builds up at the air core coil for like a millisecond
   5. when the mossfet turns of the magnetic feild collapses
-  6. This makes a voltage spike \(v = L \frac{di}{dt}\) witch goes over 200v and radiates abroad band emp
+  6. This makes a voltage spike  witch goes over 200v and radiates abroad band emp
+
+---
+
+## Images and diagrams
