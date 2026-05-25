@@ -25,8 +25,8 @@
 
 ---
 
-#what-is-this
-A compact, battery powered device that creates a rapid magnetic field colapse,radiating an electro magnetic pulse strong enought to inter fere with nearby didgital electronics.It is not a weapon.EDUCTIONAL ONLY
+## What is this?
+ A compact, battery powered device that creates a rapid magnetic field colapse,radiating an electro magnetic pulse strong enought to inter fere with nearby didgital electronics.It is not a weapon.EDUCTIONAL ONLY
 
 -inductive energy store
 -fast switching with MOSFETS
