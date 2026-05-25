@@ -35,8 +35,8 @@
 |Pulse voltage at coil|>200V|
 |Effective range |20-30cm(glitch)|
 |power supply|3s lipo(11.1v)|
-|Max fire time|2 seconds(thermal limit) more = you have 3 seconds to get out:)|
+|Max fire time|2 seconds(thermal limit) more = you have 3 seconds to get out  :)|
 
 ---
 
-##why i built it
+## Why I built it
