@@ -40,3 +40,13 @@
 ---
 
 ## Why I built it
+I always saw lots of tutorials in youtube and always thought how cool they looked.So i thought why not build it, but most of the tutorials on youtube were either weak emps or were very vauge on how to build it.
+
+---
+## How it works (in 30 secs)
+- 1. A boost converter charges a bank of cpacitors to 18V
+  2. A 555 timer genarates a short pulse,when you press the button
+  3. That pulse drives a tc4420 gate driver witch turns on the mosfet
+  4. Current builds up at the air core coil for like a millisecond
+  5. when the mossfet turns of the magnetic feild collapses
+  6. This makes a voltage spike \(v = L \frac{di}{dt}\) witch goes over 200v and radiates abroad band emp
