@@ -38,3 +38,19 @@
 ---
 
 ##What is this ?
+A compact, battery powered device that creates a rapid magnetic field colapse,radiating an electro magnetic pulse strong enought to inter fere with nearby didgital electronics.It is not a weapon.EDUCTIONAL ONLY
+
+-inductive energy store
+-fast switching with MOSFETS
+
+**KEY SPECS**
+|parameter|Value|
+|-------|--------|
+|Pulse voltage at coil|>200V|
+|Effective range |20-30cm(glitch)|
+|power supply|3s lipo(11.1v)|
+|Max fire time|2 seconds(thermal limit) more = you have 3 seconds to get out:)|
+
+---
+
+##why i built it
