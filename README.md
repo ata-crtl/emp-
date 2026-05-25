@@ -8,32 +8,20 @@
 
   ---
 
-  ##Table of contents
+ ## Table of Contents
 
-  -[What is this ?](#what-is-this)
-  
-  -[why i built it](#Why-i-built-it)
-  
-  -[How it works(in 30 secs)](#How-it-works-in-30-secs)
-  
-  -[images and diagrams](#Images--Diagrams)
-  
-  -[Assembly instructions](#assembly-instruction)
-   
-   -[1.Order the compoenets](#1-order-the-compoenets)
-   
-   -[2.Solder the pcb](#2-solder-the-pcb)
-   
-   -[3.Wind the coil](#3-wind-the-coil)
-  
-   -[4.Prepare the enclosure](#4-prepare-the-coil)
- 
-  -[5.Final assembly](#5-Final-assembly)
- 
-  -[wiring-diagram](#Wiring-diagram)
- 
-  -[Sfetey precautions](#saftey-precautions)
-
+- [What is this?](#what-is-this)
+- [Why I built it](#why-i-built-it)
+- [How it works (in 30 secs)](#how-it-works-in-30-secs)
+- [Images and diagrams](#images-and-diagrams)
+- [Assembly instructions](#assembly-instructions)
+  - [1. Order the components](#1-order-the-components)
+  - [2. Solder the PCB](#2-solder-the-pcb)
+  - [3. Wind the coil](#3-wind-the-coil)
+  - [4. Prepare the enclosure](#4-prepare-the-enclosure)
+- [5. Final assembly](#5-final-assembly)
+- [Wiring diagram](#wiring-diagram)
+- [Safety precautions](#safety-precautions)
 
 ---
 
