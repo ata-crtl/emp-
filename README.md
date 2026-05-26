@@ -4,7 +4,8 @@
   It uses inductive Kicback from a simple air core coil to generate broad band pulse that can glitch or reset unshielded digital circuits
 
 ![Fully assembled emp]
- phots go here . 
+ <img width="841" height="572" alt="Screenshot 2026-05-26 195601" src="https://github.com/user-attachments/assets/ad124d73-5354-452f-92c6-a0361c0231ce" />
+
 
   ---
 
@@ -55,8 +56,9 @@ I always saw lots of tutorials in youtube and always thought how cool they looke
 pcb
 
 3d model
+<img width="841" height="572" alt="Screenshot 2026-05-26 195601" src="https://github.com/user-attachments/assets/6674b6d0-2263-4b90-8896-6707ec31e341" />
 
-wring diagram 
+<img width="806" height="586" alt="Screenshot 2026-05-26 195329" src="https://github.com/user-attachments/assets/3badfea9-b158-45d6-86af-9bccac53825d" />
 
 ---
 ## Assembly instructions
