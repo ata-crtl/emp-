@@ -78,9 +78,14 @@ Get your pcb made, the gerber files are in the github.All components are marked 
   7. measure resistance. should be 1-3 ohms . if lower add a 1 ohm resistor in series.
 
  ## 3. Prepare the enclosure
+  
   -get the 3d printed case and line all the interior walls with copper foil other than the emission window.
+  
   -overlap the foil and solder for continuity if needed
+
+  
   ` solder 1 piece of wire to the foil and the other end to j4 for gnd
+  
   ## 4. Final assembly
   1.mount the coil inside the case using hot glue,keep the twisted leads pointing towards the pcb area.
   
