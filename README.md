@@ -102,9 +102,13 @@ Get your pcb made, the gerber files are in the github.All components are marked 
 
 ----- 
 ## Safety precautions
+
 . keep body and head 20-30 cm from emission window
+
 .always discharge the coil after use, do not touch the coil while on
+
 .do not use near pace makers , medical implants or sensitive lab equipment.
+
 .keep a class c fire extinguisher nearby.
 
 
