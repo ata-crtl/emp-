@@ -4,7 +4,7 @@
   It uses inductive Kicback from a simple air core coil to generate broad band pulse that can glitch or reset unshielded digital circuits
 
 ![Fully assembled emp]
- <img width="841" height="572" alt="Screenshot 2026-05-26 195601" src="https://github.com/user-attachments/assets/ad124d73-5354-452f-92c6-a0361c0231ce" />
+<img width="9923" height="7009" alt="Assembly 1 (7)" src="https://github.com/user-attachments/assets/4767b21f-ab5a-4b54-9f56-15532f4276c7" />
 
 
   ---
