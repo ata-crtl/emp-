@@ -56,7 +56,7 @@ I always saw lots of tutorials in youtube and always thought how cool they looke
 pcb
 
 3d model
-<img width="841" height="572" alt="Screenshot 2026-05-26 195601" src="https://github.com/user-attachments/assets/6674b6d0-2263-4b90-8896-6707ec31e341" />
+
 
 <img width="806" height="586" alt="Screenshot 2026-05-26 195329" src="https://github.com/user-attachments/assets/3badfea9-b158-45d6-86af-9bccac53825d" />
 
