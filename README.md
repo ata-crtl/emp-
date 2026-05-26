@@ -82,9 +82,11 @@ Get your pcb made, the gerber files are in the github.All components are marked 
   -overlap the foil and solder for continuity if needed
   ` solder 1 piece of wire to the foil and the other end to j4 for gnd
   ## 4. Final assembly
-  1.mount the coil inside the case using hit glue,keep the twisted leads pointing towards the pcb area.
+  1.mount the coil inside the case using hot glue,keep the twisted leads pointing towards the pcb area.
+  
   2.connect the board components.
-  ||Component A |Component B|
+ 
+  |Component A |Component B|
   |------------|-----------|
   |battery+|fuse|
   |fuse|master switch|
