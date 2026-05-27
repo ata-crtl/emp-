@@ -69,12 +69,19 @@ Get your pcb made, the gerber files are in the github.All components are marked 
   2.clean the board with isopropyl alcohol
    
 ## 2. Wind the coil
+
 - 1.Cut 40 cm of the 14awg magnet wire
+
   2.find a 2cm diameter cylinder(pen.pipe ect)
+
   3.wind 12 tight turns,make sure they touch
+
   4.slide it of, wrap with electrical tape
+
   5. leave  5cm at the end and strip the enamel and tin
+
   6. twist the 2 leads together
+
   7. measure resistance. should be 1-3 ohms . if lower add a 1 ohm resistor in series.
 
  ## 3. Prepare the enclosure
