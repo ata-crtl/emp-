@@ -3,7 +3,7 @@
   This is a low energy through hole electro magnetic pulse generator built for educational purposes.
   It uses inductive Kicback from a simple air core coil to generate broad band pulse that can glitch or reset unshielded digital circuits
 
-![Fully assembled emp]
+
 <img width="9923" height="7009" alt="Assembly 1 (7)" src="https://github.com/user-attachments/assets/4767b21f-ab5a-4b54-9f56-15532f4276c7" />
 
 
@@ -79,7 +79,7 @@ Get your pcb made, the gerber files are in the github.All components are marked 
 
  ## 3. Prepare the enclosure
   
-  -get the 3d printed case and line all the interior walls with copper foil other than the emission window.
+  -get the 3d printed case and line all the interior walls with copper foil other than the round emmesion  window at the front, cover the grills as well, but they are for heat dissapation.
   
   -overlap the foil and solder for continuity if needed
 
@@ -88,8 +88,11 @@ Get your pcb made, the gerber files are in the github.All components are marked 
   
   ## 4. Final assembly
   1.mount the coil inside the case using hot glue,keep the twisted leads pointing towards the pcb area.
-  
-  2.connect the board components.
+
+  2. place the battery in the top compartment , insert the heat set inserts , and screw the lid down, make sure the wires exit throught the bottom, slide on to the top of the case
+
+     
+  3.connect the  off board components.
  
   |Component A |Component B|
   |------------|-----------|
@@ -103,8 +106,8 @@ Get your pcb made, the gerber files are in the github.All components are marked 
   |coil lead other side|j2|
  
   
-  3.place the pcb into the case and close.
-
+  4.place the pcb into the case , place the heat set inserts and screw the case shut.
+  
 ----- 
 ## Safety precautions
 
