@@ -1,7 +1,7 @@
 **COMPLETE EMP BUILD**
 
   This is a low energy through hole electro magnetic pulse generator built for educational purposes.
-  It uses inductive Kicback from a simple air core coil to generate broad band pulse that can glitch or reset unshielded digital circuits. Flip the top saftey , then  you hold down the trigger for 2 secends to fire max
+  It uses inductive Kicback from a simple air core coil to generate broad band pulse that can glitch or reset unshielded digital circuits. Flip the top saftey , then you hold down the trigger for 2 seconds to fire max.
 
 
 <img width="9923" height="7009" alt="Assembly 1 (7)" src="https://github.com/user-attachments/assets/4767b21f-ab5a-4b54-9f56-15532f4276c7" />
@@ -25,7 +25,7 @@
 ---
 
 ## What is this?
- A compact, battery powered device that creates a rapid magnetic field collapse,radiating an electro magnetic pulse strong enough to inter fere with nearby digital electronics.It is not a weapon.EDUCTIONAL ONLY
+ A compact, battery powered device that creates a rapid magnetic field collapse,radiating an electro magnetic pulse strong enough to inter fere with nearby digital electronics.It is not a weapon.EDUCTIONAL  USE ONLY
 
 
 **KEY SPECS**
