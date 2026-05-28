@@ -7,7 +7,7 @@
 
 <img width="9923" height="7009" alt="Assembly 1 (7)" src="https://github.com/user-attachments/assets/4767b21f-ab5a-4b54-9f56-15532f4276c7" />
 
-**Onshape link = https://cad.onshape.com/documents/e3ea2a8dce756d3e28ba0ed2/w/b44164742f645132d3413e84/e/23451d8a78cdce11df78b1ae?renderMode=0&uiState=6a187fb57f8fb3f657b6f042 **
+Onshape link = https://cad.onshape.com/documents/e3ea2a8dce756d3e28ba0ed2/w/b44164742f645132d3413e84/e/23451d8a78cdce11df78b1ae?renderMode=0&uiState=6a187fb57f8fb3f657b6f042 
   ---
 
  ## Table of Contents
