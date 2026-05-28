@@ -3,7 +3,8 @@
   This is a low energy through hole electro magnetic pulse generator built for educational purposes.
   It uses inductive Kicback from a simple air core coil to generate broad band pulse that can glitch or reset unshielded digital circuits. Flip the top saftey , then you hold down the trigger for 2 seconds to fire max.
 
-<img width="353" height="634" alt="image" src="https://github.com/user-attachments/assets/7e185f5f-8a09-48df-8a48-da4e0cbee20d" />
+<img width="412" height="677" alt="image" src="https://github.com/user-attachments/assets/16705c4a-ec39-49d1-b50f-8a6cc81084dd" />
+
 
 <img width="9923" height="7009" alt="Assembly 1 (7)" src="https://github.com/user-attachments/assets/4767b21f-ab5a-4b54-9f56-15532f4276c7" />
 
