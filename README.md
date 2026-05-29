@@ -68,6 +68,7 @@ Get your pcb made, the gerber files are in the github.All components are marked 
  - then d1,l1,j1,j2,j3,j4
  - capacitors,c2,c3,c4,c6 . mind the polarity
  - q1 mossfet last
+   
   2.clean the board with isopropyl alcohol
    
 ## 2. Wind the coil
