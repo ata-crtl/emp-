@@ -55,7 +55,8 @@ I always saw lots of tutorials on youtube and always thought how cool they looke
 ---
 
 ## Images and diagrams
-<img width="725" height="477" alt="image" src="https://github.com/user-attachments/assets/7a1b4cec-8334-46d7-bd85-9f664135d711" />
+<img width="842" height="512" alt="image" src="https://github.com/user-attachments/assets/0683ac77-e278-45a3-bb93-697576736c04" />
+
 <img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/1917ba87-788c-421b-bf67-e256973f7e6e" />
 <img width="806" height="586" alt="Screenshot 2026-05-26 195329" src="https://github.com/user-attachments/assets/3badfea9-b158-45d6-86af-9bccac53825d" />
 
@@ -117,7 +118,8 @@ Get your pcb made, the gerber files are in the github.All components are marked 
   |coil lead other side|j2|
  
   
-  4.place the pcb into the case , place the heat set inserts and screw the case shut.
+  4.place the pcb into the case and secure using the mounting holes ,use the m2 screws. 
+  5. place the heat set inserts and screw the case shut.
   
 ----- 
 ## Safety precautions
