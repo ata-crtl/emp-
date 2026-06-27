@@ -12,7 +12,7 @@
 <img width="14030" height="9923" alt="Assembly 1 (19)" src="https://github.com/user-attachments/assets/dd544328-b66b-4a41-be6f-b6a7d07f674c" />
 
 
-Onshape link = https://cad.onshape.com/documents/e3ea2a8dce756d3e28ba0ed2/w/b44164742f645132d3413e84/e/23451d8a78cdce11df78b1ae?renderMode=0&uiState=6a187fb57f8fb3f657b6f042 
+Onshape link = https://cad.onshape.com/documents/e3ea2a8dce756d3e28ba0ed2/w/b44164742f645132d3413e84/e/23451d8a78cdce11df78b1ae
   ---
 
  ## Table of Contents
