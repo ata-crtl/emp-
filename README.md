@@ -7,12 +7,10 @@
 
 
 
-<img width="1220" height="788" alt="AISelect_20260712_214746_Samsung Notes" src="https://github.com/user-attachments/assets/9ed6b884-0744-4f29-b53d-5c1f2db606e3" />
 
-<img width="1200" height="656" alt="AISelect_20260712_215529_Samsung Notes" src="https://github.com/user-attachments/assets/f2db7790-887b-41e2-9e18-52c435f99a3e" />
 
 <img width="14030" height="9923" alt="Assembly 1 (19)" src="https://github.com/user-attachments/assets/dd544328-b66b-4a41-be6f-b6a7d07f674c" />
-<img width="922" height="624" alt="AISelect_20260712_220100_Samsung Notes" src="https://github.com/user-attachments/assets/c6d4691a-2729-41fe-b804-66d0b13bca74" />
+
 
 
 Onshape link = https://cad.onshape.com/documents/e3ea2a8dce756d3e28ba0ed2/w/b44164742f645132d3413e84/e/23451d8a78cdce11df78b1ae?renderMode=0&uiState=6a40249c9a392f71b3cf0f7e
@@ -66,7 +64,10 @@ I always saw lots of tutorials on youtube and always thought how cool they looke
 
 <img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/1917ba87-788c-421b-bf67-e256973f7e6e" />
 <img width="806" height="586" alt="Screenshot 2026-05-26 195329" src="https://github.com/user-attachments/assets/3badfea9-b158-45d6-86af-9bccac53825d" />
+<img width="1220" height="788" alt="AISelect_20260712_214746_Samsung Notes" src="https://github.com/user-attachments/assets/9ed6b884-0744-4f29-b53d-5c1f2db606e3" />
+<img width="922" height="624" alt="AISelect_20260712_220100_Samsung Notes" src="https://github.com/user-attachments/assets/c6d4691a-2729-41fe-b804-66d0b13bca74" />
 
+<img width="1200" height="656" alt="AISelect_20260712_215529_Samsung Notes" src="https://github.com/user-attachments/assets/f2db7790-887b-41e2-9e18-52c435f99a3e" />
 ---
 ## Assembly instructions
 Get your pcb made, the gerber files are in the github.All components are marked on the pcb.
